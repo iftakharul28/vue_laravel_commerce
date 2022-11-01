@@ -19,14 +19,6 @@ This is a e-commerce platform I made mostly using Laravel ^8.3
 -   Open Source
 -   Ecommerce Solution
 
-## Install
-
-Clone repo
-
-```
-git clone https://github.com/Md-shefat-masum/Laravel-Ecommerce.git
-```
-
 Install Composer
 
 [Download Composer](https://getcomposer.org/download/)
